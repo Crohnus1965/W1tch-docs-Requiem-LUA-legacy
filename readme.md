@@ -3,7 +3,7 @@ order: 0
 icon: book
 ---
 !!!
-This documentation is no longer supported; another site with more convenient mechanics will be created in the near future.
+This documentation is no longer supported; THANK YOU MedVed for building and sharing this Git. 
 !!!
 # What is Requiem Engine?
 
